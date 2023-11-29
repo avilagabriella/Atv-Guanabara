@@ -1,0 +1,33 @@
+body {
+    background-color: darkolivegreen;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.h1 {
+    color: bisque;
+    font-size: 3em;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+.sair {
+    color: bisque;
+    font-size: 2.5em;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+button {
+    border-radius: 10px;
+    position: relative;
+    color: dimgray;
+    font-family: 'Arial';
+    display:grid;
+}
